@@ -12,22 +12,25 @@ The simple music player task application includes the following features:
 
 ## Installation
 
-To run the simple music player task application, follow these steps:
+To run music player application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/atharvnaik07/simple-music-player-task.git`
-2. Navigate to the project directory: `cd simple-music-player-task`
+1. Clone the repository: `git clone https://github.com/atharvnaik07/Music_Player.git`
+2. Navigate to the project directory: `cd Music_Player`
 3. Open the `index.html` file in a web browser.
 
 ## Technologies Used
 
-The simple music player task application is built using the following technologies:
+The music player application is built using the following technologies:
 
 - **HTML/CSS:** The user interface is created using HTML and styled with CSS.
 - **JavaScript:** The application's logic and functionality are implemented using JavaScript programming language.
 
+## Output
+![image](https://github.com/atharvnaik07/Music_Player/assets/114814921/91fcc008-d68c-4a40-b554-d1a31b3c9b47)
+
 ## Contributing
 
-Contributions to the simple music player task application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to the repository. Make sure to follow the existing code style and guidelines.
+Contributions to the music player application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to the repository. Make sure to follow the existing code style and guidelines.
 
 ## License
 
