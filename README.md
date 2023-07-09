@@ -14,7 +14,7 @@ The simple music player task application includes the following features:
 
 To run the simple music player task application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/atharvnaik096/simple-music-player-task.git`
+1. Clone the repository: `git clone https://github.com/atharvnaik07/simple-music-player-task.git`
 2. Navigate to the project directory: `cd simple-music-player-task`
 3. Open the `index.html` file in a web browser.
 
